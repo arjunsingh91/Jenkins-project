@@ -2,4 +2,7 @@
 *.o
 
 # Ada Library Information
-*.ali
+/centos/**
+/db_data/**
+/jenkins_home/**
+/jenkins/**
