@@ -4,7 +4,9 @@
 /db_data/**
 /jenkins_home/**
 /jenkins/**
+/jenkins-ansible
 
 
 # not to ignore
 !/centos/Dockerfile
+!/jenkins-ansible/Dockerfile
